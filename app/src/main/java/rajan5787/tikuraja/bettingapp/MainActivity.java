@@ -114,7 +114,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onErrorResponse(VolleyError error) {
                 //textView.setText("That didn't work!");
-                Log.i("volyyError","Lodu error chhe ERROR");
+                Log.i("volyyError","error chhe ERROR");
                 Log.i("volyyError",error.toString());
 
                 Toast.makeText(getApplicationContext(),error.toString(),Toast.LENGTH_LONG).show();
