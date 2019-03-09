@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="contact_name">#333333</color>
+    <color name="contact_number">#8c8c8c</color>
+    <color name="colorPrimary">#387876</color>
+    <color name="colorPrimaryDark">#2C5E63</color>
+    <color name="colorAccent">#388C9F</color>
+    <color name="text_color_white">#FFFFFF</color>
+    <color name="edt_color">#387876</color>
+    <color name="screen_bg">#fafafafa</color>
+    <color name="card_wallet">#387876</color>
+    <color name="card_menu">#387876</color>
+    <color name="card_report">#387876</color>
+    <color name="timestamp">#a0a3a7</color>
+    <color name="light_grey">#77ddafaf</color>
+    <color name="blue">#0099ff</color>
+    <color name="green">#00ee00</color>
+</resources>
